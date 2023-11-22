@@ -1,6 +1,6 @@
 # Dengue in La Reunion
 
-Data and source code to reproduce the analyses from [this article]().
+Data and source code to reproduce the analyses from [this article](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiad468/7438952?searchresult=1).
 
 ## Dependencies
 1. A C++ compiler, like `gcc`
